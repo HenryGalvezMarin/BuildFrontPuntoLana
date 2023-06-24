@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50427929.css",
+    "main.js": "/static/js/main.e778cc88.js",
+    "static/media/SweaterPapiniTaupeClaro.jpg": "/static/media/SweaterPapiniTaupeClaro.5da73aaa60654254f8df.jpg",
+    "static/media/SweaterLarocheEstampado2.jpg": "/static/media/SweaterLarocheEstampado2.ca0f7435979fec2250ad.jpg",
+    "static/media/SweaterZichEstampado2.jpg": "/static/media/SweaterZichEstampado2.e08c3af62b0a452fa694.jpg",
+    "static/media/banner.jpg": "/static/media/banner.32bf5ac4186fb5843f27.jpg",
+    "index.html": "/index.html",
+    "main.50427929.css.map": "/static/css/main.50427929.css.map",
+    "main.e778cc88.js.map": "/static/js/main.e778cc88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50427929.css",
+    "static/js/main.e778cc88.js"
+  ]
+}
